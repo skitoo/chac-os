@@ -1,0 +1,7 @@
+{
+  "name": "chac",
+  "version": "v0.1.0",
+  "release_date": "2015-04-01",
+  "kernel": "3.12",
+  "description": "The chac operating system."
+}
